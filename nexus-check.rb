@@ -26,11 +26,13 @@ while 1
     if html.match('Sold out')
         puts "Sold Out Still - #{t}"
     else
+        puts "Back in Stock! Sending Text and Quitting!"
         @client.account.sms.messages.create(
-            :from => '',
-            :to => '',
+            :from => '+15103435046',
+            :to => '+12486223852',
             :body => 'Nexus 4 16GB is back in stock! GOGOGO',
         )
+        break
     end
     sleep(60)
 end

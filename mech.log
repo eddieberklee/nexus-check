@@ -1775,3 +1775,191 @@ D, [2012-11-15T14:03:30.799150 #3380] DEBUG -- : Read 1325 bytes (19253 total)
 D, [2012-11-15T14:03:30.799150 #3380] DEBUG -- : Read 881 bytes (20134 total)
 D, [2012-11-15T14:03:30.799150 #3380] DEBUG -- : Read 10 bytes (20144 total)
 D, [2012-11-15T14:03:30.799150 #3380] DEBUG -- : gzip response
+I, [2012-11-15T14:04:48.120573 #2236]  INFO -- : Net::HTTP::Get: /store/devices/details?id=nexus_4_16gb
+D, [2012-11-15T14:04:48.120573 #2236] DEBUG -- : request-header: accept => */*
+D, [2012-11-15T14:04:48.120573 #2236] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2012-11-15T14:04:48.120573 #2236] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2012-11-15T14:04:48.120573 #2236] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+D, [2012-11-15T14:04:48.120573 #2236] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2012-11-15T14:04:48.120573 #2236] DEBUG -- : request-header: host => play.google.com
+I, [2012-11-15T14:04:49.605658 #2236]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2012-11-15T14:04:49.605658 #2236] DEBUG -- : response-header: cache-control => no-cache, no-store, max-age=0, must-revalidate
+D, [2012-11-15T14:04:49.605658 #2236] DEBUG -- : response-header: pragma => no-cache
+D, [2012-11-15T14:04:49.605658 #2236] DEBUG -- : response-header: expires => Fri, 01 Jan 1990 00:00:00 GMT
+D, [2012-11-15T14:04:49.605658 #2236] DEBUG -- : response-header: date => Thu, 15 Nov 2012 22:04:59 GMT
+D, [2012-11-15T14:04:49.605658 #2236] DEBUG -- : response-header: content-type => text/html; charset=UTF-8
+D, [2012-11-15T14:04:49.605658 #2236] DEBUG -- : response-header: set-cookie => NID=66=N4EmBJZvgTMDl_Yt7toVwJrnJH0Vm2kc4IZ8H0uSefyng1VWOaAsdqYnFge-zd96UDzB_CJ8KkP5HRVGi__WDf8D_nhjmjQYGGHtDY-ju-OYuA9jrv1Zzw-Kq-vwVKGf;Domain=.google.com;Path=/;Expires=Fri, 17-May-2013 22:04:59 GMT;HttpOnly
+D, [2012-11-15T14:04:49.605658 #2236] DEBUG -- : response-header: p3p => CP="This is not a P3P policy! See http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=151657 for more info."
+D, [2012-11-15T14:04:49.605658 #2236] DEBUG -- : response-header: content-encoding => gzip
+D, [2012-11-15T14:04:49.605658 #2236] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2012-11-15T14:04:49.605658 #2236] DEBUG -- : response-header: x-content-type-options => nosniff
+D, [2012-11-15T14:04:49.605658 #2236] DEBUG -- : response-header: x-frame-options => SAMEORIGIN
+D, [2012-11-15T14:04:49.605658 #2236] DEBUG -- : response-header: x-xss-protection => 1; mode=block
+D, [2012-11-15T14:04:49.605658 #2236] DEBUG -- : response-header: server => GSE
+D, [2012-11-15T14:04:49.605658 #2236] DEBUG -- : Read 591 bytes (591 total)
+D, [2012-11-15T14:04:49.605658 #2236] DEBUG -- : Read 1325 bytes (1916 total)
+D, [2012-11-15T14:04:49.605658 #2236] DEBUG -- : Read 1275 bytes (3191 total)
+D, [2012-11-15T14:04:49.605658 #2236] DEBUG -- : Read 1325 bytes (4516 total)
+D, [2012-11-15T14:04:49.605658 #2236] DEBUG -- : Read 1325 bytes (5841 total)
+D, [2012-11-15T14:04:49.606658 #2236] DEBUG -- : Read 1325 bytes (7166 total)
+D, [2012-11-15T14:04:49.606658 #2236] DEBUG -- : Read 121 bytes (7287 total)
+D, [2012-11-15T14:04:49.606658 #2236] DEBUG -- : Read 1325 bytes (8612 total)
+D, [2012-11-15T14:04:49.606658 #2236] DEBUG -- : Read 666 bytes (9278 total)
+D, [2012-11-15T14:04:49.606658 #2236] DEBUG -- : Read 652 bytes (9930 total)
+D, [2012-11-15T14:04:49.606658 #2236] DEBUG -- : Read 1325 bytes (11255 total)
+D, [2012-11-15T14:04:49.616658 #2236] DEBUG -- : Read 121 bytes (11376 total)
+D, [2012-11-15T14:04:49.616658 #2236] DEBUG -- : Read 964 bytes (12340 total)
+D, [2012-11-15T14:04:49.616658 #2236] DEBUG -- : Read 232 bytes (12572 total)
+D, [2012-11-15T14:04:49.616658 #2236] DEBUG -- : Read 1325 bytes (13897 total)
+D, [2012-11-15T14:04:49.626659 #2236] DEBUG -- : Read 1325 bytes (15222 total)
+D, [2012-11-15T14:04:49.626659 #2236] DEBUG -- : Read 121 bytes (15343 total)
+D, [2012-11-15T14:04:49.626659 #2236] DEBUG -- : Read 1260 bytes (16603 total)
+D, [2012-11-15T14:04:49.626659 #2236] DEBUG -- : Read 58 bytes (16661 total)
+D, [2012-11-15T14:04:49.636660 #2236] DEBUG -- : Read 1325 bytes (17986 total)
+D, [2012-11-15T14:04:49.636660 #2236] DEBUG -- : Read 1325 bytes (19311 total)
+D, [2012-11-15T14:04:49.636660 #2236] DEBUG -- : Read 121 bytes (19432 total)
+D, [2012-11-15T14:04:49.636660 #2236] DEBUG -- : Read 702 bytes (20134 total)
+D, [2012-11-15T14:04:49.636660 #2236] DEBUG -- : Read 10 bytes (20144 total)
+D, [2012-11-15T14:04:49.636660 #2236] DEBUG -- : gzip response
+D, [2012-11-15T14:04:49.641660 #2236] DEBUG -- : saved cookie: NID=66=N4EmBJZvgTMDl_Yt7toVwJrnJH0Vm2kc4IZ8H0uSefyng1VWOaAsdqYnFge-zd96UDzB_CJ8KkP5HRVGi__WDf8D_nhjmjQYGGHtDY-ju-OYuA9jrv1Zzw-Kq-vwVKGf
+I, [2012-11-15T14:05:41.528628 #4516]  INFO -- : Net::HTTP::Get: /store/devices/details?id=nexus_4_16gb
+D, [2012-11-15T14:05:41.528628 #4516] DEBUG -- : request-header: accept => */*
+D, [2012-11-15T14:05:41.528628 #4516] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2012-11-15T14:05:41.528628 #4516] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2012-11-15T14:05:41.528628 #4516] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+D, [2012-11-15T14:05:41.528628 #4516] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2012-11-15T14:05:41.528628 #4516] DEBUG -- : request-header: host => play.google.com
+I, [2012-11-15T14:05:42.971710 #4516]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2012-11-15T14:05:42.971710 #4516] DEBUG -- : response-header: cache-control => no-cache, no-store, max-age=0, must-revalidate
+D, [2012-11-15T14:05:42.971710 #4516] DEBUG -- : response-header: pragma => no-cache
+D, [2012-11-15T14:05:42.971710 #4516] DEBUG -- : response-header: expires => Fri, 01 Jan 1990 00:00:00 GMT
+D, [2012-11-15T14:05:42.971710 #4516] DEBUG -- : response-header: date => Thu, 15 Nov 2012 22:05:53 GMT
+D, [2012-11-15T14:05:42.971710 #4516] DEBUG -- : response-header: content-type => text/html; charset=UTF-8
+D, [2012-11-15T14:05:42.971710 #4516] DEBUG -- : response-header: set-cookie => NID=66=P1iAt8Qu0DRmyD4h6hY9O8I882H8T3Oh1BX9cCVsw8T_KExBTKRAe9ZUR9tIv95xOhQccBeVAfUIGRGth2JujP7hiu0xB5Wxr1B1_IhVN3S8flC0YJLoOAcEWIPbx1Ge;Domain=.google.com;Path=/;Expires=Fri, 17-May-2013 22:05:53 GMT;HttpOnly
+D, [2012-11-15T14:05:42.971710 #4516] DEBUG -- : response-header: p3p => CP="This is not a P3P policy! See http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=151657 for more info."
+D, [2012-11-15T14:05:42.971710 #4516] DEBUG -- : response-header: content-encoding => gzip
+D, [2012-11-15T14:05:42.971710 #4516] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2012-11-15T14:05:42.971710 #4516] DEBUG -- : response-header: x-content-type-options => nosniff
+D, [2012-11-15T14:05:42.971710 #4516] DEBUG -- : response-header: x-frame-options => SAMEORIGIN
+D, [2012-11-15T14:05:42.971710 #4516] DEBUG -- : response-header: x-xss-protection => 1; mode=block
+D, [2012-11-15T14:05:42.971710 #4516] DEBUG -- : response-header: server => GSE
+D, [2012-11-15T14:05:42.971710 #4516] DEBUG -- : Read 591 bytes (591 total)
+D, [2012-11-15T14:05:42.971710 #4516] DEBUG -- : Read 1325 bytes (1916 total)
+D, [2012-11-15T14:05:42.971710 #4516] DEBUG -- : Read 1275 bytes (3191 total)
+D, [2012-11-15T14:05:42.971710 #4516] DEBUG -- : Read 1325 bytes (4516 total)
+D, [2012-11-15T14:05:42.972710 #4516] DEBUG -- : Read 1325 bytes (5841 total)
+D, [2012-11-15T14:05:42.972710 #4516] DEBUG -- : Read 1325 bytes (7166 total)
+D, [2012-11-15T14:05:42.972710 #4516] DEBUG -- : Read 121 bytes (7287 total)
+D, [2012-11-15T14:05:42.972710 #4516] DEBUG -- : Read 1325 bytes (8612 total)
+D, [2012-11-15T14:05:42.972710 #4516] DEBUG -- : Read 666 bytes (9278 total)
+D, [2012-11-15T14:05:42.972710 #4516] DEBUG -- : Read 0 bytes (9278 total)
+D, [2012-11-15T14:05:43.002712 #4516] DEBUG -- : Read 1325 bytes (10603 total)
+D, [2012-11-15T14:05:43.002712 #4516] DEBUG -- : Read 1325 bytes (11928 total)
+D, [2012-11-15T14:05:43.002712 #4516] DEBUG -- : Read 412 bytes (12340 total)
+D, [2012-11-15T14:05:43.002712 #4516] DEBUG -- : Read 0 bytes (12340 total)
+D, [2012-11-15T14:05:43.002712 #4516] DEBUG -- : Read 1325 bytes (13665 total)
+D, [2012-11-15T14:05:43.012713 #4516] DEBUG -- : Read 1325 bytes (14990 total)
+D, [2012-11-15T14:05:43.012713 #4516] DEBUG -- : Read 1325 bytes (16315 total)
+D, [2012-11-15T14:05:43.012713 #4516] DEBUG -- : Read 121 bytes (16436 total)
+D, [2012-11-15T14:05:43.012713 #4516] DEBUG -- : Read 167 bytes (16603 total)
+D, [2012-11-15T14:05:43.012713 #4516] DEBUG -- : Read 1320 bytes (17923 total)
+D, [2012-11-15T14:05:43.012713 #4516] DEBUG -- : Read 1325 bytes (19248 total)
+D, [2012-11-15T14:05:43.012713 #4516] DEBUG -- : Read 886 bytes (20134 total)
+D, [2012-11-15T14:05:43.012713 #4516] DEBUG -- : Read 10 bytes (20144 total)
+D, [2012-11-15T14:05:43.012713 #4516] DEBUG -- : gzip response
+D, [2012-11-15T14:05:43.017713 #4516] DEBUG -- : saved cookie: NID=66=P1iAt8Qu0DRmyD4h6hY9O8I882H8T3Oh1BX9cCVsw8T_KExBTKRAe9ZUR9tIv95xOhQccBeVAfUIGRGth2JujP7hiu0xB5Wxr1B1_IhVN3S8flC0YJLoOAcEWIPbx1Ge
+I, [2012-11-15T14:06:17.242670 #5960]  INFO -- : Net::HTTP::Get: /store/devices/details?id=nexus_4_16gb
+D, [2012-11-15T14:06:17.242670 #5960] DEBUG -- : request-header: accept => */*
+D, [2012-11-15T14:06:17.243670 #5960] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2012-11-15T14:06:17.243670 #5960] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2012-11-15T14:06:17.243670 #5960] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+D, [2012-11-15T14:06:17.243670 #5960] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2012-11-15T14:06:17.243670 #5960] DEBUG -- : request-header: host => play.google.com
+I, [2012-11-15T14:06:18.683753 #5960]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2012-11-15T14:06:18.683753 #5960] DEBUG -- : response-header: cache-control => no-cache, no-store, max-age=0, must-revalidate
+D, [2012-11-15T14:06:18.683753 #5960] DEBUG -- : response-header: pragma => no-cache
+D, [2012-11-15T14:06:18.683753 #5960] DEBUG -- : response-header: expires => Fri, 01 Jan 1990 00:00:00 GMT
+D, [2012-11-15T14:06:18.683753 #5960] DEBUG -- : response-header: date => Thu, 15 Nov 2012 22:06:28 GMT
+D, [2012-11-15T14:06:18.684753 #5960] DEBUG -- : response-header: content-type => text/html; charset=UTF-8
+D, [2012-11-15T14:06:18.684753 #5960] DEBUG -- : response-header: set-cookie => NID=66=b0EyHkpXu3igNpWaWr-guY9LYB2eLru8H58NJvrPVScb9y2L5Nw00LdULmNdtrexqAKASmSlSx3kcjSSDgjlzK4IhiXm7ygtIawaP9nsEkZLeahLZw4JuObDU-H-6wSW;Domain=.google.com;Path=/;Expires=Fri, 17-May-2013 22:06:28 GMT;HttpOnly
+D, [2012-11-15T14:06:18.684753 #5960] DEBUG -- : response-header: p3p => CP="This is not a P3P policy! See http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=151657 for more info."
+D, [2012-11-15T14:06:18.684753 #5960] DEBUG -- : response-header: content-encoding => gzip
+D, [2012-11-15T14:06:18.684753 #5960] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2012-11-15T14:06:18.684753 #5960] DEBUG -- : response-header: x-content-type-options => nosniff
+D, [2012-11-15T14:06:18.684753 #5960] DEBUG -- : response-header: x-frame-options => SAMEORIGIN
+D, [2012-11-15T14:06:18.684753 #5960] DEBUG -- : response-header: x-xss-protection => 1; mode=block
+D, [2012-11-15T14:06:18.684753 #5960] DEBUG -- : response-header: server => GSE
+D, [2012-11-15T14:06:18.684753 #5960] DEBUG -- : Read 591 bytes (591 total)
+D, [2012-11-15T14:06:18.684753 #5960] DEBUG -- : Read 1325 bytes (1916 total)
+D, [2012-11-15T14:06:18.685753 #5960] DEBUG -- : Read 1273 bytes (3189 total)
+D, [2012-11-15T14:06:18.685753 #5960] DEBUG -- : Read 1325 bytes (4514 total)
+D, [2012-11-15T14:06:18.685753 #5960] DEBUG -- : Read 1325 bytes (5839 total)
+D, [2012-11-15T14:06:18.685753 #5960] DEBUG -- : Read 1325 bytes (7164 total)
+D, [2012-11-15T14:06:18.685753 #5960] DEBUG -- : Read 121 bytes (7285 total)
+D, [2012-11-15T14:06:18.685753 #5960] DEBUG -- : Read 1325 bytes (8610 total)
+D, [2012-11-15T14:06:18.685753 #5960] DEBUG -- : Read 668 bytes (9278 total)
+D, [2012-11-15T14:06:18.685753 #5960] DEBUG -- : Read 0 bytes (9278 total)
+D, [2012-11-15T14:06:18.716755 #5960] DEBUG -- : Read 1325 bytes (10603 total)
+D, [2012-11-15T14:06:18.716755 #5960] DEBUG -- : Read 1325 bytes (11928 total)
+D, [2012-11-15T14:06:18.716755 #5960] DEBUG -- : Read 412 bytes (12340 total)
+D, [2012-11-15T14:06:18.716755 #5960] DEBUG -- : Read 1319 bytes (13659 total)
+D, [2012-11-15T14:06:18.716755 #5960] DEBUG -- : Read 1325 bytes (14984 total)
+D, [2012-11-15T14:06:18.716755 #5960] DEBUG -- : Read 1325 bytes (16309 total)
+D, [2012-11-15T14:06:18.717755 #5960] DEBUG -- : Read 121 bytes (16430 total)
+D, [2012-11-15T14:06:18.717755 #5960] DEBUG -- : Read 173 bytes (16603 total)
+D, [2012-11-15T14:06:18.717755 #5960] DEBUG -- : Read 0 bytes (16603 total)
+D, [2012-11-15T14:06:18.717755 #5960] DEBUG -- : Read 1325 bytes (17928 total)
+D, [2012-11-15T14:06:18.717755 #5960] DEBUG -- : Read 1325 bytes (19253 total)
+D, [2012-11-15T14:06:18.717755 #5960] DEBUG -- : Read 881 bytes (20134 total)
+D, [2012-11-15T14:06:18.717755 #5960] DEBUG -- : Read 10 bytes (20144 total)
+D, [2012-11-15T14:06:18.717755 #5960] DEBUG -- : gzip response
+D, [2012-11-15T14:06:18.729755 #5960] DEBUG -- : saved cookie: NID=66=b0EyHkpXu3igNpWaWr-guY9LYB2eLru8H58NJvrPVScb9y2L5Nw00LdULmNdtrexqAKASmSlSx3kcjSSDgjlzK4IhiXm7ygtIawaP9nsEkZLeahLZw4JuObDU-H-6wSW
+I, [2012-11-15T14:06:34.672667 #3316]  INFO -- : Net::HTTP::Get: /store/devices/details?id=nexus_4_16gb
+D, [2012-11-15T14:06:34.672667 #3316] DEBUG -- : request-header: accept => */*
+D, [2012-11-15T14:06:34.672667 #3316] DEBUG -- : request-header: user-agent => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.51.22 (KHTML, like Gecko) Version/5.1.1 Safari/534.51.22
+D, [2012-11-15T14:06:34.672667 #3316] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2012-11-15T14:06:34.672667 #3316] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+D, [2012-11-15T14:06:34.672667 #3316] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2012-11-15T14:06:34.673667 #3316] DEBUG -- : request-header: host => play.google.com
+I, [2012-11-15T14:06:36.103749 #3316]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2012-11-15T14:06:36.103749 #3316] DEBUG -- : response-header: cache-control => no-cache, no-store, max-age=0, must-revalidate
+D, [2012-11-15T14:06:36.103749 #3316] DEBUG -- : response-header: pragma => no-cache
+D, [2012-11-15T14:06:36.103749 #3316] DEBUG -- : response-header: expires => Fri, 01 Jan 1990 00:00:00 GMT
+D, [2012-11-15T14:06:36.103749 #3316] DEBUG -- : response-header: date => Thu, 15 Nov 2012 22:06:46 GMT
+D, [2012-11-15T14:06:36.103749 #3316] DEBUG -- : response-header: content-type => text/html; charset=UTF-8
+D, [2012-11-15T14:06:36.103749 #3316] DEBUG -- : response-header: set-cookie => NID=66=glRgb4mmsJQQl-epSvLyDFpAduSWiE7QAYp_0HTQ6oQfjiqTCpnL5EkB0V-DCueYLBaZRz4mWRkBEZE0fgPjCCa4AXYrV7kvijqR6HWNTrzaheJl5Sudo0SltzfZyWTK;Domain=.google.com;Path=/;Expires=Fri, 17-May-2013 22:06:46 GMT;HttpOnly
+D, [2012-11-15T14:06:36.103749 #3316] DEBUG -- : response-header: p3p => CP="This is not a P3P policy! See http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=151657 for more info."
+D, [2012-11-15T14:06:36.103749 #3316] DEBUG -- : response-header: content-encoding => gzip
+D, [2012-11-15T14:06:36.103749 #3316] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2012-11-15T14:06:36.103749 #3316] DEBUG -- : response-header: x-content-type-options => nosniff
+D, [2012-11-15T14:06:36.103749 #3316] DEBUG -- : response-header: x-frame-options => SAMEORIGIN
+D, [2012-11-15T14:06:36.103749 #3316] DEBUG -- : response-header: x-xss-protection => 1; mode=block
+D, [2012-11-15T14:06:36.103749 #3316] DEBUG -- : response-header: server => GSE
+D, [2012-11-15T14:06:36.103749 #3316] DEBUG -- : Read 0 bytes (0 total)
+D, [2012-11-15T14:06:36.103749 #3316] DEBUG -- : Read 1325 bytes (1325 total)
+D, [2012-11-15T14:06:36.103749 #3316] DEBUG -- : Read 1325 bytes (2650 total)
+D, [2012-11-15T14:06:36.103749 #3316] DEBUG -- : Read 1325 bytes (3975 total)
+D, [2012-11-15T14:06:36.103749 #3316] DEBUG -- : Read 121 bytes (4096 total)
+D, [2012-11-15T14:06:36.104749 #3316] DEBUG -- : Read 1325 bytes (5421 total)
+D, [2012-11-15T14:06:36.104749 #3316] DEBUG -- : Read 1325 bytes (6746 total)
+D, [2012-11-15T14:06:36.104749 #3316] DEBUG -- : Read 1325 bytes (8071 total)
+D, [2012-11-15T14:06:36.104749 #3316] DEBUG -- : Read 121 bytes (8192 total)
+D, [2012-11-15T14:06:36.104749 #3316] DEBUG -- : Read 1325 bytes (9517 total)
+D, [2012-11-15T14:06:36.124750 #3316] DEBUG -- : Read 227 bytes (9744 total)
+D, [2012-11-15T14:06:36.124750 #3316] DEBUG -- : Read 0 bytes (9744 total)
+D, [2012-11-15T14:06:36.124750 #3316] DEBUG -- : Read 1325 bytes (11069 total)
+D, [2012-11-15T14:06:36.134751 #3316] DEBUG -- : Read 1325 bytes (12394 total)
+D, [2012-11-15T14:06:36.134751 #3316] DEBUG -- : Read 521 bytes (12915 total)
+D, [2012-11-15T14:06:36.134751 #3316] DEBUG -- : Read 0 bytes (12915 total)
+D, [2012-11-15T14:06:36.134751 #3316] DEBUG -- : Read 1325 bytes (14240 total)
+D, [2012-11-15T14:06:36.134751 #3316] DEBUG -- : Read 1325 bytes (15565 total)
+D, [2012-11-15T14:06:36.134751 #3316] DEBUG -- : Read 1325 bytes (16890 total)
+D, [2012-11-15T14:06:36.134751 #3316] DEBUG -- : Read 79 bytes (16969 total)
+D, [2012-11-15T14:06:36.134751 #3316] DEBUG -- : Read 0 bytes (16969 total)
+D, [2012-11-15T14:06:36.134751 #3316] DEBUG -- : Read 1325 bytes (18294 total)
+D, [2012-11-15T14:06:36.134751 #3316] DEBUG -- : Read 1325 bytes (19619 total)
+D, [2012-11-15T14:06:36.134751 #3316] DEBUG -- : Read 496 bytes (20115 total)
+D, [2012-11-15T14:06:36.134751 #3316] DEBUG -- : Read 0 bytes (20115 total)
+D, [2012-11-15T14:06:36.134751 #3316] DEBUG -- : Read 10 bytes (20125 total)
+D, [2012-11-15T14:06:36.134751 #3316] DEBUG -- : gzip response
+D, [2012-11-15T14:06:36.138751 #3316] DEBUG -- : saved cookie: NID=66=glRgb4mmsJQQl-epSvLyDFpAduSWiE7QAYp_0HTQ6oQfjiqTCpnL5EkB0V-DCueYLBaZRz4mWRkBEZE0fgPjCCa4AXYrV7kvijqR6HWNTrzaheJl5Sudo0SltzfZyWTK

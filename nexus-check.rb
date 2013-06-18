@@ -13,7 +13,7 @@ url = 'https://play.google.com/store/devices/details?id=nexus_4_16gb'
 
 # Just a file containing account sid on the first line
 #   and auth token on the second.
-f = File.new("twilio-login.password","r")
+f = File.new("twilio.password","r")
 account_sid,auth_token = f.read.split("\n")
 
 @client = Twilio::REST::Client.new account_sid, auth_token
